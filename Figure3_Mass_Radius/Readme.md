@@ -3,7 +3,7 @@
 Code to create figure: massradiuseos.py
 
 
-**List of names: **
+List of names:
 
 Example: outdefault2000core.txt corresponds to CD-2000
 
