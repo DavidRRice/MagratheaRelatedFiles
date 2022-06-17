@@ -1,5 +1,7 @@
 **Files to Create Figure 3 (eosall3.pdf) in Huang et al. 2022, MAGRATHEA**
 
+Output files created with MAGRATHEA, input_mode=6, and 3 input files here.
+
 Code to create figure: massradiuseos.py
 
 
