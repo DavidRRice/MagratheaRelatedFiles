@@ -6,7 +6,7 @@ For mode0.cfg set all masses to 0.0, all temp_jump parameters to 0, and surface_
 
 For first panel: mass_of_hydro=1.0. 
 
-For second panel: mass_of_mantle=1.0, mass_of_hydro=1.0. 
+For second panel: mass_of_mantle=1.0, mass_of_hydro=0.0. 
 
-For third panel: mass_of_mantle=1.0, mass_of_hydro=1.0, mantle_phasedgm="C_simple".
+For third panel: mass_of_mantle=1.0, mass_of_hydro=0.0, mantle_phasedgm="C_simple".
 
